@@ -5,7 +5,9 @@ En este proyecto creamos una pagina web utilizando HTML5 y CSS3.
 Hacemos uso de una caja flexible para el fácil acomodo de los elementos dentro de ella.
 
 ### Características
+- **Diseño Responsive:** Adaptable a diferentes tamaños de pantalla para una experiencia de usuario óptima en dispositivos móviles y de escritorio.
 
+- **Diseño:** Diseño web profesional único
 
 ### Tecnologías Utilizadas
 + **HTML5:** Para la estructura básica del sitio.
